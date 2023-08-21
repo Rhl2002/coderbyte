@@ -1,0 +1,25 @@
+.container{
+    top: 203px;
+left: 473px;
+width: 495px;
+height: 405px;
+/* UI Properties */
+background: #FCEBE5 0% 0% no-repeat padding-box;
+border-radius: 16px;
+opacity: 1;
+}
+
+.contact{
+    font-size: 42px;
+    top: 254px;
+left: 511px;
+width: 419px;
+height: 45px;
+/* UI Properties */
+font: var(--unnamed-font-style-normal) normal bold 42px/47px Banana Grotesk;
+text-align: left;
+font: normal normal bold 42px/47px Banana Grotesk;
+letter-spacing: 2.1px;
+color: #495057;
+opacity: 1;
+}

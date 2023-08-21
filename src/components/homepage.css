@@ -1,0 +1,216 @@
+.container {
+  /* Layout Properties */
+  display: flex;
+  flex-direction: row;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 810px;
+  /* UI Properties */
+  background: #fde3d9 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.top-image {
+  top: 33px;
+  left: 41px;
+  width: 194px;
+  height: 62px;
+  background: transparent url("../image/Cat-N-Dog-Logo\ copy.png") 0% 0%
+    no-repeat padding-box;
+  opacity: 1;
+}
+
+.b {
+margin-top: 359px;
+left: 60px;
+width: 571px;
+height: 414px;
+/* UI Properties */
+opacity: 1;;
+}
+
+.content-top {
+  /* Layout Properties */
+ font-size: 42px;
+
+ height: 162px;
+ /* UI Properties */
+ letter-spacing: var(--unnamed-character-spacing-0);
+ text-align: left;
+ letter-spacing: 0px;
+ color: #3E3E3E;
+ opacity: 1;
+}
+
+.content-below {
+margin-top: 20px;
+  width: 440px;
+  height: 108px;
+  letter-spacing: var(--unnamed-character-spacing--0-11);
+  text-align: left;
+  letter-spacing: -0.11px;
+  color: #6d6d6d;
+  opacity: 1;
+}
+
+.app{
+  margin-top:22px;
+  display: flex;
+}
+
+.appstore {
+
+  width: 160px;
+  height: 53px;
+  background: transparent url("../image/AppStoreBadge.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.playstore {
+
+  width: 207px;
+  height: 80px;
+  background: transparent url("../image/google-play-badge.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.right-side {
+  /* Layout Properties */
+  
+  margin-top: 0px;
+  left: 720px;
+  width: 720px;
+  height: 810px;
+  /* UI Properties */
+  background: transparent url("../image/Group\ 2.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+  li {
+    float: left;
+  
+  }
+
+
+.about {
+  
+  top: 48px;
+  margin-left: 350px;
+  padding-right: 40px;
+  width: 34px;
+  height: 14px;
+  /* UI Properties */
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F7F7F7;
+  opacity: 1;
+}
+
+.blog {
+  padding-right: 30px;
+  
+  /* UI Properties */
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #f7f7f7;
+  opacity: 1;
+}
+.carrer {
+  padding-right: 30px;
+  
+  /* UI Properties */
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #f7f7f7;
+  opacity: 1;
+}
+.contact {
+  
+  /* UI Properties */
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  letter-spacing: 0px;
+  color: #f7f7f7;
+  opacity: 1;
+  cursor: pointer;
+  background: transparent;
+}
+
+ .text{
+  margin-top: 501px;
+  margin-left: 80px;
+left: 831px;
+width: 80px;
+height: 20px;
+text-align: left;
+letter-spacing: -0.12px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.text-below{
+  margin-top: 15px;
+left: 830px;
+width: 220px;
+height: 81px;
+/* UI Properties */
+letter-spacing: var(--unnamed-character-spacing--0-11);
+text-align: left;
+letter-spacing: -0.11px;
+color: #FFE8DF;
+opacity: 1;
+
+}
+
+.link{
+  display: flex;
+  float: left;
+  margin-top: 200px;
+  margin-left: 500px;
+left: 1326px;
+width: 54px;
+height: 11px;
+opacity: 1;
+}
+
+.facebook{
+  padding-left: 10px;
+width: 11px;
+height: 11px;
+/* UI Properties */
+background: transparent url('../image/FB-icon-black.png') 0% 0% no-repeat padding-box;
+/* background-color: yellow; */
+opacity: 1;
+}
+
+.linkedin{
+  padding-left: 10px;
+width: 11px;
+height: 11px;
+  /* UI Properties */
+  background: transparent url('../image/linkedin-icon-black.png') 0% 0% no-repeat padding-box;
+ /* background-color: yellow; */
+  opacity: 1;
+}
+.twitter{
+  padding-left: 10px;
+width: 11px;
+height: 11px;
+/* UI Properties */
+background: transparent url('../image/Twitter-icon-black.png') 0% 0% no-repeat padding-box;
+
+opacity: 1;
+}
